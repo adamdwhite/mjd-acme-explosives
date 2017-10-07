@@ -1,0 +1,39 @@
+{
+    "types": [{
+            "id": 0,
+            "category": 0,
+            "name": "Personal",
+            "description": "Culpa minim velit laborum commodo labore ipsum minim enim nulla sunt."
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Professional - Manual",
+            "description": "Culpa minim velit laborum commodo labore ipsum minim enim nulla sunt."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "Professional - Digital",
+            "description": "Culpa minim velit laborum commodo labore ipsum minim enim nulla sunt."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Stump and Stone",
+            "description": "Culpa minim velit laborum commodo labore ipsum minim enim nulla sunt."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "Building Demolition",
+            "description": "Culpa minim velit laborum commodo labore ipsum minim enim nulla sunt."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "Mining",
+            "description": "Culpa minim velit laborum commodo labore ipsum minim enim nulla sunt."
+        }
+    ]
+}
